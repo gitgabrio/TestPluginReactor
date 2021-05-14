@@ -1,0 +1,10 @@
+
+[org.kie:blueprinter-test]
+[org.kie:bom-a]
+[org.kie:bom-aa]
+[org.kie:bom-b]
+[org.kie:bom-ba]
+[org.kie:bom-bb]
+[org.kie:bom-b]
+[org.kie:bom-a]
+[org.kie:blueprinter-test]

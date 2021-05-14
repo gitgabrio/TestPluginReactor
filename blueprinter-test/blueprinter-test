@@ -1,0 +1,8 @@
+@startuml
+[org.kie:blueprinter-test] as cmp-1
+[org.kie:blueprinter-test] as cmp-2
+[org.kie:bom-a] as cmp-3
+cmp-1 <.. cmp-3 : extends
+[org.kie:bom-b] as cmp-4
+cmp-1 <.. cmp-4 : extends
+@enduml
